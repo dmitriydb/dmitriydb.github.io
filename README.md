@@ -4,7 +4,7 @@
 
 Создан с помощью React.
 
-Доступен по ссылке ```https://dmitriydb.github.io/```
+Доступен по ссылке <https://dmitriydb.github.io/>
 
 ### Пример использования 
 
